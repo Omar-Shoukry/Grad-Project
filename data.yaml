@@ -1,0 +1,8 @@
+
+train: /content/yolo_data/images/train  # train images (relative to 'path') 128 images
+val: /content/yolo_data/images/val # val images (relative to 'path') 128 images
+# test:  # test images (optional)
+
+# Classes
+nc: 27 # number of classes
+names: ['alef','beh','gem','dal','ra2','sen','sadd','tah','3en','feh','qaf','lam','mem','noon','ha2','waw','ya2','0','1','2','3','4','5','6','7','8','9']
